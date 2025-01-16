@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/imperium-solis/"}
 ---
 
-## The Imperium
 
 The quality that suffuses Imperial culture is order. Everyone has their place and their purpose. Whether the purpose was chosen or not, people are put to use, and those that step out of line often find the consequences so severe they never do so again. 
 

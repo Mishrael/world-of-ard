@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/the-coalition-of-free-realms/"}
 ---
 
-## The Coalition of Free Realms
 
 The Coalition is an alliance of similarly minded nations, that have banded together to benefit and prosper one another about 200 years ago. It seemed that each nation had something the others could use and that by working together, while still sovreign states, they could benefit themselves and the whole. The Coalition is a bustling hub of cosmopolitanism, and have become not only an economic force in the world, but a center of arcane and scientific study. 
 

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/welcome-to-aerd/","tags":["gardenEntry"]}
 ---
 
-
+## Welcome to Ärd
 
 For millennia, Ärd has seen the rise and fall of many kingdoms and powers. Each striving to achieve the grandeur and greatness of the kings of old -- to revitalize the Golden Age. Instead, all these efforts have brought strife upon the disparate peoples of Ärd, plunging the world into a veritable Dark Age of feuding kings and nobles. Every so often there would be a king that would rise to unite the world, but their efforts would be short lived and invariably leave the world more broken as a result. 
 

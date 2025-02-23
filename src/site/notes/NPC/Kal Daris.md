@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/npc/kal-daris/","noteIcon":"","updated":"2025-02-23T09:33:52.715-08:00"}
 ---
 
-![Kal.webp|right|400](/img/user/Kal.webp)
+![Kal.webp|right|400](/img/user/zz.%20Behind%20the%20Scenes/Resources/Kal.webp)
 ### **The Harsh Survivalist**
 
 - **Name**: **Kal Daris**

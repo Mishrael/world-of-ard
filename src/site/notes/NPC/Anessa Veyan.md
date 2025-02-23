@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/npc/anessa-veyan/","noteIcon":"","updated":"2025-02-23T09:43:08.038-08:00"}
 ---
 
-![Anessa1.webp|right|400](/img/user/Anessa1.webp)
+![Anessa1.webp|right|400](/img/user/zz.%20Behind%20the%20Scenes/Resources/Anessa1.webp)
 ## **Anessa Veyan – The Arcane Tempest**
 
 _"Power flows like the tide—unpredictable, unrelenting, and in the wrong hands, catastrophic."_

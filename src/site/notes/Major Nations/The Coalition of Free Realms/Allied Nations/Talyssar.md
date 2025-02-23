@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/major-nations/the-coalition-of-free-realms/allied-nations/talyssar/","noteIcon":"","updated":"2025-02-10T21:01:44.989-08:00"}
+{"dg-publish":true,"permalink":"/major-nations/the-coalition-of-free-realms/allied-nations/talyssar/","noteIcon":"","updated":"2025-02-23T09:41:44.405-08:00"}
 ---
 
-### **Archmagiate of Talyssar (The Arcane Citadel)**
+### **Mageocracy of Talyssar (The Arcane Citadel)**
 
 - **Government:** Mageocracy (Ruled by the **Circle of Arcanists**)
 - **Culture:** Knowledge-driven, arcane-focused, highly educated

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/major-nations/unaligned-nations/asmira/"}
+{"dg-publish":true,"permalink":"/major-nations/unaligned-nations/asmira/","noteIcon":"","updated":"2025-02-12T14:15:15.000-08:00"}
 ---
 
 ### **The Dune Kingdoms of Asmira (Keepers of the Sun’s Shadow)**

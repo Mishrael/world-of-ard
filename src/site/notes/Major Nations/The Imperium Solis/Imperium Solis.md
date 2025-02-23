@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/major-nations/the-imperium-solis/imperium-solis/"}
+{"dg-publish":true,"permalink":"/major-nations/the-imperium-solis/imperium-solis/","noteIcon":"","updated":"2025-01-15T20:37:36.512-08:00"}
 ---
 
 

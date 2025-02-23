@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/major-nations/unaligned-nations/kynmarches/"}
+{"dg-publish":true,"permalink":"/major-nations/unaligned-nations/kynmarches/","noteIcon":"","updated":"2025-02-12T14:15:12.000-08:00"}
 ---
 
 ### **The Kynmarches (The Warden Clans)**

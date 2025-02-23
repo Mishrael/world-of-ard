@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/major-nations/unaligned-nations/zarkeshan/"}
+{"dg-publish":true,"permalink":"/major-nations/unaligned-nations/zarkeshan/","noteIcon":"","updated":"2025-02-12T14:14:58.000-08:00"}
 ---
 
 ### **The Zarkeshan Sultanate (The Desert Kings)**

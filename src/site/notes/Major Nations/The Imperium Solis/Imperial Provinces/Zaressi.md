@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/major-nations/the-imperium-solis/imperial-provinces/zaressi/"}
+{"dg-publish":true,"permalink":"/major-nations/the-imperium-solis/imperial-provinces/zaressi/","noteIcon":"","updated":"2025-02-12T14:13:56.000-08:00"}
 ---
 
 

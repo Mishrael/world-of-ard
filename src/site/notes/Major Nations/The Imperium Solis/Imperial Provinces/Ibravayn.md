@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/major-nations/the-imperium-solis/imperial-provinces/ibravayn/"}
+{"dg-publish":true,"permalink":"/major-nations/the-imperium-solis/imperial-provinces/ibravayn/","noteIcon":"","updated":"2025-02-12T13:49:46.000-08:00"}
 ---
 
 

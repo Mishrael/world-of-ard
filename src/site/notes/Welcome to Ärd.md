@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-aerd/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/welcome-to-aerd/","tags":["gardenEntry"],"noteIcon":"","updated":"2025-02-22T20:20:32.285-08:00"}
 ---
 
 ## Welcome to Ärd
 
 For millennia, Ärd has seen the rise and fall of many kingdoms and powers. Each striving to achieve the grandeur and greatness of the kings of old -- to revitalize the Golden Age. Instead, all these efforts have brought strife upon the disparate peoples of Ärd, plunging the world into a veritable Dark Age of feuding kings and nobles. Every so often a king would arise to unite the world, but their efforts would be short lived and invariably leave the world more broken as a result. 
 
-However, with the recent discovery of the world-wide rulers of Ärd from the Age of Myth, the Solannar, some have found hope for unified world and search for their secrets. There's only one issue, the Solannar reigned from the island continent known as The Stormlands, which is known as the deadliest place on Ärd. Little is known about the home of the Solannar as many have been wise enough to stay away, and still less known about the Solannar. But the search for knowledge has spurred nations into action, in a race to uncover the secrets of this enigmatic civilization.
+However, with the recent discovery of the world-wide rulers of Ärd from the Age of Myth, the Solannar, some have found hope for unified world and search for their secrets. There's only one issue, the Solannar reigned from the island continent known as The Stormlands, or The Maelstrom Expanse or Eryndor or Lyscaris or whatever name you know it by, which is known as the deadliest place on Ärd. Little is known about the home of the Solannar as many have been wise enough to stay away, and still less known about the Solannar. But the search for knowledge has spurred nations into action, in a race to uncover the secrets of this enigmatic civilization.
 
 With interest in the Stormlands rising day by day, and more and more braving the untamed wilds, both the Coalition of Free Realms and The Imperium Solis have found the land abundant in natural resources both from the earth itself and from the unique array of deadly fauna and flora, bringing economic interests to the forefront of the campaign to discover the secrets of these seemingly immaculate beings, the Solannar. 
 

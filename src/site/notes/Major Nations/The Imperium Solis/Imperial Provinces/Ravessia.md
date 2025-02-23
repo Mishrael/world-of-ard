@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/major-nations/the-imperium-solis/imperial-provinces/ravessia/"}
+{"dg-publish":true,"permalink":"/major-nations/the-imperium-solis/imperial-provinces/ravessia/","noteIcon":"","updated":"2025-02-12T14:14:00.000-08:00"}
 ---
 
 ### **Ravessia (The Seat of Imperial Order)**

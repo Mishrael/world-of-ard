@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/major-nations/unaligned-nations/skadrith/"}
+{"dg-publish":true,"permalink":"/major-nations/unaligned-nations/skadrith/","noteIcon":"","updated":"2025-02-12T14:15:09.000-08:00"}
 ---
 
 ### **The Dominion of Skadrith (The Northern Raiders)**

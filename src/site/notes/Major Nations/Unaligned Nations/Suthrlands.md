@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/major-nations/unaligned-nations/suthrlands/"}
+{"dg-publish":true,"permalink":"/major-nations/unaligned-nations/suthrlands/","noteIcon":"","updated":"2025-02-12T14:15:01.000-08:00"}
 ---
 
 ### **The Suthrlands (Lords of Ice and Fire)**

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/npc/daryn-altos/","noteIcon":"","updated":"2025-02-22T22:10:37.020-08:00"}
+{"dg-publish":true,"permalink":"/npc/daryn-altos/","noteIcon":"","updated":"2025-02-23T09:33:35.028-08:00"}
 ---
 
-![Daryn.webp](/img/user/Daryn.webp)
+![Daryn.webp|right|400](/img/user/Daryn.webp)
 ## **Daryn Altos – The Stormforged General**
 
 _"The storm does not break those who stand firm—it forges them."_

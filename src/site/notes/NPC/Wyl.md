@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/npc/wyl/","noteIcon":"","updated":"2025-02-22T22:09:46.685-08:00"}
+{"dg-publish":true,"permalink":"/npc/wyl/","noteIcon":"","updated":"2025-02-23T09:34:01.400-08:00"}
 ---
 
-![Wyl.webp](/img/user/Wyl.webp)
+![Wyl.webp|right|400](/img/user/Wyl.webp)
 ### **Wyl – The Cantina Keeper of Maelstrom Hold**
 
 _"You want the strongest brew in the Hold? Uh... well... Yeah, lemme whip sumthing right up. You won't regret it -- I think..."_

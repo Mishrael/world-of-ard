@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/major-nations/the-coalition-of-free-realms/allied-nations/talyssar/","noteIcon":"","updated":"2025-02-23T09:41:44.405-08:00"}
+{"dg-publish":true,"permalink":"/major-nations/the-coalition-of-free-realms/allied-nations/talyssar/","noteIcon":"","updated":"2025-02-23T09:41:44.000-08:00"}
 ---
 
 ### **Mageocracy of Talyssar (The Arcane Citadel)**

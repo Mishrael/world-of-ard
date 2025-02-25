@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/major-nations/the-coalition-of-free-realms/allied-nations/redmere/","noteIcon":"","updated":"2025-02-10T21:01:13.420-08:00"}
+{"dg-publish":true,"permalink":"/major-nations/the-coalition-of-free-realms/allied-nations/redmere/","noteIcon":"","updated":"2025-02-10T21:01:13.000-08:00"}
 ---
 
 ### **The Free City of Redmere (Hub of Invention)**

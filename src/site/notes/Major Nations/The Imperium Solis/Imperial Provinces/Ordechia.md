@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/major-nations/the-imperium-solis/imperial-provinces/ordechia/","noteIcon":"","updated":"2025-02-12T14:12:34.000-08:00"}
+{"dg-publish":true,"permalink":"/major-nations/the-imperium-solis/imperial-provinces/ordechia/","noteIcon":"","updated":"2025-02-12T14:12:34.068-08:00"}
 ---
 
 ### **Ordechia (The Black Forges)**

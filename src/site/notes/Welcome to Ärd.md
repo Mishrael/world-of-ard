@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome-to-aerd/","tags":["gardenEntry"],"noteIcon":"","updated":"2025-02-22T20:20:32.285-08:00"}
+{"dg-publish":true,"permalink":"/welcome-to-aerd/","tags":["gardenEntry"],"noteIcon":"","updated":"2025-02-22T20:20:32.000-08:00"}
 ---
 
 ## Welcome to Ärd

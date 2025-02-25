@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/major-nations/the-coalition-of-free-realms/allied-nations/itheris/","noteIcon":"","updated":"2025-02-10T21:01:03.206-08:00"}
+{"dg-publish":true,"permalink":"/major-nations/the-coalition-of-free-realms/allied-nations/itheris/","noteIcon":"","updated":"2025-02-10T21:01:03.000-08:00"}
 ---
 
 ### **Kingdom of Itheris (Masters of the Sea)**

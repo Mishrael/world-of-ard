@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/major-nations/the-coalition-of-free-realms/allied-nations/vehrendar/","noteIcon":"","updated":"2025-02-10T21:03:25.962-08:00"}
+{"dg-publish":true,"permalink":"/major-nations/the-coalition-of-free-realms/allied-nations/vehrendar/","noteIcon":"","updated":"2025-02-10T21:03:25.000-08:00"}
 ---
 
 ### **The Vehrendar Khanate (Lords of the Endless Plains)**

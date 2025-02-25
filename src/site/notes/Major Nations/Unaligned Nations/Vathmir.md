@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/major-nations/unaligned-nations/vathmir/","noteIcon":"","updated":"2025-02-12T14:15:04.000-08:00"}
+{"dg-publish":true,"permalink":"/major-nations/unaligned-nations/vathmir/","noteIcon":"","updated":"2025-02-12T14:15:04.722-08:00"}
 ---
 
 ### **The Kingdom of Vathmir (The Dying Land)**

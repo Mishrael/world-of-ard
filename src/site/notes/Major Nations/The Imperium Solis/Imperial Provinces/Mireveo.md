@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/major-nations/the-imperium-solis/imperial-provinces/mireveo/","noteIcon":"","updated":"2025-02-12T14:12:54.000-08:00"}
+{"dg-publish":true,"permalink":"/major-nations/the-imperium-solis/imperial-provinces/mireveo/","noteIcon":"","updated":"2025-02-12T14:12:54.165-08:00"}
 ---
 
 ### **Mireveo (The Wild Frontier)**

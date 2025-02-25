@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/major-nations/the-coalition-of-free-realms/allied-nations/vaelith/","noteIcon":"","updated":"2025-02-10T21:02:58.538-08:00"}
+{"dg-publish":true,"permalink":"/major-nations/the-coalition-of-free-realms/allied-nations/vaelith/","noteIcon":"","updated":"2025-02-10T21:02:58.000-08:00"}
 ---
 
 ### **Kingdom of Vaelith (Chivalric Heartland)**

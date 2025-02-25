@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/major-nations/the-imperium-solis/imperial-provinces/mirador/","noteIcon":"","updated":"2025-02-12T14:13:07.000-08:00"}
+{"dg-publish":true,"permalink":"/major-nations/the-imperium-solis/imperial-provinces/mirador/","noteIcon":"","updated":"2025-02-12T14:13:07.992-08:00"}
 ---
 
 ### **Marador (The Subjugated Sea)**

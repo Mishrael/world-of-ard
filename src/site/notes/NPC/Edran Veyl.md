@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/npc/edran-veyl/","noteIcon":"","updated":"2025-02-23T09:33:44.463-08:00"}
+{"dg-publish":true,"permalink":"/npc/edran-veyl/","noteIcon":"","updated":"2025-02-23T09:33:44.000-08:00"}
 ---
 
-![Edran.webp|right|400](/img/user/zz.%20Behind%20the%20Scenes/Resources/Edran.webp)
+![Edran.webp|right|400](/img/user/zz.%20Behind%20the%20Scenes/Resources/NPC%20Portrait/Edran.webp)
 ### **The Battle-Worn Idealist**
 
 - **Name**: **Edran Veyl**

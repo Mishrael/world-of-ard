@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/major-nations/the-coalition-of-free-realms/allied-nations/sylvani/","noteIcon":"","updated":"2025-02-10T21:01:42.617-08:00"}
+{"dg-publish":true,"permalink":"/major-nations/the-coalition-of-free-realms/allied-nations/sylvani/","noteIcon":"","updated":"2025-02-10T21:01:42.000-08:00"}
 ---
 
 ### **The Sylvani Confederacy (Wardens of the Wilds)**

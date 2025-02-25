@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/major-nations/the-coalition-of-free-realms/allied-nations/alzora/","noteIcon":"","updated":"2025-02-10T21:00:51.000-08:00"}
+{"dg-publish":true,"permalink":"/major-nations/the-coalition-of-free-realms/allied-nations/alzora/","noteIcon":"","updated":"2025-02-10T21:00:50.000-08:00"}
 ---
 
 ### **Republic of Alzora (The Gilded Dominion)**

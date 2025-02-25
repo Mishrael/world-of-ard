@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/major-nations/the-coalition-of-free-realms/the-coalition-of-free-realms/","noteIcon":"","updated":"2025-02-10T20:18:02.835-08:00"}
+{"dg-publish":true,"permalink":"/major-nations/the-coalition-of-free-realms/the-coalition-of-free-realms/","noteIcon":"","updated":"2025-02-10T20:18:02.000-08:00"}
 ---
 
 

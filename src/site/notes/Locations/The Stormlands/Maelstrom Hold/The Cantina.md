@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-stormlands/maelstrom-hold/the-cantina/","noteIcon":"","updated":"2025-02-22T21:43:56.828-08:00"}
+{"dg-publish":true,"permalink":"/locations/the-stormlands/maelstrom-hold/the-cantina/","noteIcon":"","updated":"2025-02-22T21:43:56.000-08:00"}
 ---
 
 "Cantina" is roughly carved into a piece of drift wood nailed to the hull of what used to be the proud Squalbreaker. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/major-nations/the-imperium-solis/imperial-provinces/lorentis/","noteIcon":"","updated":"2025-02-12T13:37:29.000-08:00"}
+{"dg-publish":true,"permalink":"/major-nations/the-imperium-solis/imperial-provinces/lorentis/","noteIcon":"","updated":"2025-02-12T13:37:29.632-08:00"}
 ---
 
 ### **Lorentis (Breadbasket of the Imperium)**

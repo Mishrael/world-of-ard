@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations/the-stormlands/maelstrom-hold/maelstrom-hold/","noteIcon":"","updated":"2025-02-14T17:04:26.424-08:00"}
+{"dg-publish":true,"permalink":"/locations/the-stormlands/maelstrom-hold/maelstrom-hold/","noteIcon":"","updated":"2025-02-14T17:04:26.000-08:00"}
 ---
 
 The Coalition foothold in **Eryndor**, is run by Daryn Altas and Anessa Vayen. Commander Altas oversees the military efforts of protecting the Hold, while Head Scholar Vayen organizes and oversees research of the Solannar artefacts and other curious magical items. 

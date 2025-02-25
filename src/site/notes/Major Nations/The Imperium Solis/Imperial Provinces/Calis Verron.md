@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/major-nations/the-imperium-solis/imperial-provinces/calis-verron/","noteIcon":"","updated":"2025-02-12T14:13:25.000-08:00"}
+{"dg-publish":true,"permalink":"/major-nations/the-imperium-solis/imperial-provinces/calis-verron/","noteIcon":"","updated":"2025-02-12T14:13:25.924-08:00"}
 ---
 
 ### **Calis Verron (The Iron Marches)**
